@@ -1,0 +1,76 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+    <title> Techno </title>
+</head>
+<body>
+<body bgcolor="black">
+
+<font>
+<p align="center"><table border="0" width="100%" bgcolor="white" font color="black"> </p>
+<nav>
+<td><font color="black"> <a href="pocetna.html"> Početna </a></td>
+<td><font color="black"> <a href="fest.html"> Festivali </a></td>
+<td><font color="black"> <a href="scena.html"> Scena </a></td>
+<td><font color="black"> <a href="trazi.html"> Traži </a></td>
+</table>
+</nav>
+
+<b> <font color="white"> <h1 align="center"> T̴̢̺̰̖͛́̀E̷̮̦̲̍̉Ć̴͍͋͆̃̋H̶͖̫̓͌̃͌͘Ņ̵̠͉̌̅O̸͓͐̈́̏̔̔͆̚</h1> </font> </b>
+
+<p> <font color="white"> <h3> ŠTO JE <font color="red"> TECHNO? </h3> </font> </p>
+<p> <font color="red"> Techno <font color="white"> je oblik elektroničke glazbe, koji se razvio u Detroitu (Michigan, SAD) sredinom 1980-ih, pod utjecajem electro i funk glazbe. </font> </p>
+
+<br>
+<br>
+
+<p> <i> Najpoznatiji i Najveći Techno Klubovi: </i> </p>
+<ul><font color="white">
+<li><font color="white"><a href="https://www.berghain.de/"> Berghain </a> </li>
+<li><font color="white"><a href="https://tresorberlin.com/"> Tresor </li> </a>
+<li><font color="white"><a href="https://www.deschoolamsterdam.nl/nl/"> De School </li> </a>
+<li><font color="white"><a href="https://www.residentadvisor.net/club.aspx?id=1963"> Fabrik </li> </a>
+<li><font color="white">...</font></li>
+</ul>
+
+<br>
+<br>
+
+<p align="center"><img src="bergh.jpg" height="500" width="700"></p>
+<p align="center">BERGHAIN</p>
+
+<br>
+<br>
+
+<p> <font color="red"> <h3> PODVRSTE TECHNA: </h3> </font> </p>
+<p> <font color="white"> Hardcore-Techno, Trance, Tech-House, House, Minimal Techno, Tekno, Drum n bass... opširnije možete vidjeti <a href="https://hr.wikipedia.org/wiki/Dodatak:Popis_%C5%BEanrova_elektronske_glazbe"> ovdje. </a> </font> </p>
+
+<br>
+<br>
+
+<p align="center"> <font color="red"> Poznati techno Dj-evi: </font> </p> 
+<p align="center"> <img src="cc.jpg" height="300" width="400"></p>
+<p align="center">Carl Cox</p>
+
+<br>
+
+<p align="center"> <img src="svaeth.jpg" height="300" width="430"></p>
+<p align="center">Sven Vaeth</p>
+
+<br>
+
+<p align="center"> <img src="ihm.jpg" height="320" width="250"></p>
+<p align="center">I HATE MODELS</p>
+
+<br>
+
+<p align="center"> <img src="alens.jpg" height="300" width="300"></p>
+<p align="center">Amelie Lens</p>
+
+<br>
+</body>
+</html>
